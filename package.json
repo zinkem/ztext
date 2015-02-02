@@ -4,6 +4,7 @@
   "description": "A module for gathering statistics on texts",
   "author": "Matthew Zinke <zinkem@gmail.com>",
   "main": "lib/ztext.js",
+  "scripts": { "test" : "node test/top.js" },
   "repository": {
     "type": "git",
     "url": "https://github.com/zinkem/ztext"
